@@ -1,0 +1,115 @@
+#container{
+    padding: 10px;
+    width: 70%;
+    margin-left: 10em;
+}
+
+#playButtons, #nextButtons
+{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+#myVideo{
+    width: 100%;
+}
+
+#vidNUM{
+    float: right;
+}
+
+button{
+    width: 100%;
+}
+
+
+
+  
+  #container h1 {
+    color: #fff;
+    padding: 20px;
+    
+    border-radius: 5px;
+    margin-left: 460px;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  #playButton {
+    padding: 10px;
+    border: 1px solid #282c28;
+    border-radius: 1px;
+    margin-bottom: 20px;
+    
+  }
+  
+  #rewindButton {
+    padding: 10px;
+    border: 1px solid #282c28;
+    border-radius: 1px;
+    margin-bottom: 20px;
+  }
+  
+  #nextButtons {
+    padding: 10px;
+   
+    margin-bottom: 20px;
+  }
+  
+  #myVideo {
+    width: 100%;
+  }
+  
+  #vidNum {
+    float: right;
+    color: #fff;
+  }
+  
+  #timeOut {
+    color: #fff;
+  }
+
+  button {
+    width: 30%;
+    color: #070707;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+  
+
+  @media screen and (max-width: 600px)
+{
+  #container {
+    margin-top: -10em;
+    padding-top: -5em;
+  }
+
+  #container h1 {
+    color: #fff;
+    padding: 20px;
+    
+    border-radius: 5px;
+    margin-left: 1em;
+    margin-top: -2em;
+    font-size: 12px;
+    
+  }
+
+
+  button {
+    width: 30%;
+    color: #282c28;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 12px;
+  }
+}

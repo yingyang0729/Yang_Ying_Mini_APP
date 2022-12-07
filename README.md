@@ -22,6 +22,7 @@ The contributor is Ying Yang.
 8. One README.md file;
 9. one JSON files.
 10. one MySQL table
+11. pictures-screenshots of fixing the problems
 
 ## History
 TODO: 
