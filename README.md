@@ -49,7 +49,9 @@ At first, the website does not show the fetch files. However, I solve the proble
 9. I change a host.
 10. I create a new database with the new hose.
 11. It is successfully working. I can see all fetch files.
+12. Screenshot of the start pages
 ![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20171131.png)
+13. Screenshot of the fetch data
 ![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20171218.png)
 
 ## Credits
