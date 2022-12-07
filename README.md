@@ -36,8 +36,7 @@ The FIP project is finished by Ying Yang. As the only developer, I would like to
 
 ## Fix Problems
 At first, the website does not show the fetch files. However, I solve the problems by below ways.
-1.	Clean and reorganize the folders
-Delete all the unnecessary files
+1.	Clean and reorganize the folders. I delete all the unnecessary files
 2.	Keeping the name of My Database is the same with the hosting.
 3.	Try many times to find the problems. 
 4. I do not know whether the PHP files is right or wrong. So, I use the echo”<script>console.log(‘Debug Objects: 2’ );</script>” 
