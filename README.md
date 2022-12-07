@@ -15,16 +15,24 @@ The contributor is Ying Yang.
 1. JSON and HTML-these kinds of files are put on the folder Yang_Ying_FIP_leve3;
 2. CSS-it contains all css file;
 3. images-it contains all image files;
-4. includes-it contains a PHP file;
+4. scripts-it contains a PHP file;
 5. js-it contains all JS files;
 6. Sass-all Sass files;
-7. Home,About,Artworks, Package, Contact HTML;
+7. index.htm;
 8. One README.md file;
-9. Three JSON files.
+9. one JSON files.
+10. one MySQL table
 
 ## History
 TODO: 
 The FIP project is finished by Ying Yang. As the only developer, I would like to explain the project.
+
+1.	Set up the basic structure with HTML and CSS
+2.	Add the fetch function with JS. This step is for fetching JSON files.
+3.	Create a database on my local phpAdmin and export the MySQL table. The table contains all information of the JSON files
+4.	Create a database on my hosting and Import the MySQL table into my hosting database
+5.	Change the Connect.php files and Json.php. Add the password, username, url, etc.
+6.	Fetch the files of MySQL table.
 
 
 ## Credits
