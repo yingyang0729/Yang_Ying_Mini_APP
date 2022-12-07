@@ -34,6 +34,21 @@ The FIP project is finished by Ying Yang. As the only developer, I would like to
 5.	Change the Connect.php files and Json.php. Add the password, username, url, etc.
 6.	Fetch the files of MySQL table.
 
+##Problems
+At first, the website does not show the fetch files. However, I solve the problems by below ways.
+1.	Clean and reorganize the folders
+Delete all the unnecessary files
+2.	Keeping the name of My Database is the same with the hosting.
+3.	Try many times to find the problems. 
+(1)	I do not know whether the PHP files is right or wrong. So, I use the echo”<script>console.log(‘Debug Objects: 2’ );</script>” 
+(2)	After I check it, I find my connect.php is right. Hosever, it is not responsive with my web.
+(3)	It also shows the warning about the connects.
+(4)	I think the database is wrong.
+(5)	I change a host.
+(6)	I create a new database with the new hose.
+(7)	It is successfully working. I can see all fetch files.
+
+
 
 ## Credits
 TODO: The FIP is about 10% for credits in the course.
