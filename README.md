@@ -34,7 +34,7 @@ The FIP project is finished by Ying Yang. As the only developer, I would like to
 5.	Change the Connect.php files and Json.php. Add the password, username, url, etc.
 6.	Fetch the files of MySQL table.
 
-##Problems
+## Problems
 At first, the website does not show the fetch files. However, I solve the problems by below ways.
 1.	Clean and reorganize the folders
 Delete all the unnecessary files
