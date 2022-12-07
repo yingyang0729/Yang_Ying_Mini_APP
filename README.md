@@ -41,6 +41,7 @@ At first, the website does not show the fetch files. However, I solve the proble
 2.	Keeping the name of My Database is the same with the hosting.
 3.	Try many times to find the problems. 
 4. I do not know whether the PHP files is right or wrong. So, I use the echo”<script>console.log(‘Debug Objects: 2’ );</script>” 
+![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20170721.jpeg)
 5. After I check it, I find my connect.php is right. Hosever, it is not responsive with my web. 
 6. It also shows the warning about the connects.
 ![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20170632.png)
