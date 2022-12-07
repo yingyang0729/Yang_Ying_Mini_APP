@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Lobster&display=swap" rel="stylesheet">
+    <link  href="sass/main_p.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="css/main_home.css" rel="stylesheet">
+    <link href="css/player.css" rel="stylesheet" type="text/css" media="screen">
+ 
+    <title>Motion</title>
+</head>
+
+<body id="siteContainer">
+    <header>
+        <p style="text-align: center;">
+            <object  data="images/mini_logo.svg" type="image/svg+xml" class="logo"></object>
+        </p>
+        
+    </header>
+
+
+
+    <main id="app">
+        <h2 class="teamtopic">2022 Mini Cooper</h2>
+        <nav id="character-nav">
+            <ul class="characters">
+                <!-- prof thumb component goes here -->
+                <!-- pass the current data object into each new component using the :hero props binding -->
+                <metalpackagelink @loadlb="loadLightContainer" v-for="hero in heroData" :hero="hero"></metalpackagelink>
+            </ul>
+        </nav>
+
+        <!-- Lightcontainer can go here -->
+        <lightcontainer @closelb="this.showLightContainer = false" v-if="showLightContainer" :hero="lightcontainerData"></lightcontainer>
+        <!-----end lightcontainer------>
+
+        
+       
+
+        <div class="teamText">
+            <p class="hero"> 
+                Wait for your drive test.
+            </p>
+        </div>
+        
+       
+   
+
+        <div class="footer" >
+            
+            All prices and services on this website and in our reservation system are based on conditions at the time of publishing and are subject to change. Please call to confirm services, availability and pricing.©2022 Ying Yang Digital Design Inc. All Rights Reserved. Privacy Policy',
+           
+        </div>
+    </main>
+    <!-- make this a sticky footer so it's always at the bottom-->
+  
+
+    <!-- load script tags at the bottom -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="js/main_p.js" type="module" defer></script>
+    
+    
+</body>
+</html>
