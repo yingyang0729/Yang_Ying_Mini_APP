@@ -52,7 +52,7 @@ At first, the website does not show the fetch files. However, I solve the proble
 12. Screenshot of the start pages
 ![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20202812.png)
 13. Screenshot of the fetch data
-![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20171218.png)
+![iamge](https://github.com/yingyang0729/Yang_Ying_Mini_APP/blob/main/pictures/Screenshot%202022-12-07%20202840.png)
 
 ## Credits
 TODO: The FIP is about 10% for credits in the course.
