@@ -73,6 +73,7 @@
     width: 200px;
     color: #fff;
     font-size: 14px;
+    
   }
 
   
@@ -86,9 +87,14 @@
     margin-left: 10px;
     table-layout: fixed;
 	  
-    color: #fff;
+    color: black;
     text-align: left; 
     font-size: 20px;;
+    background-color: #fff;
+    padding: 8px 1.1em;
+    border-radius: 7px;
+    font-weight: 700;
+    text-align: center;
   }
 
   .lb_heading { 
@@ -97,9 +103,13 @@
     padding: .2em;
     table-layout: fixed;
 	  
-    color: #fff;
+    background-color: rgb(58, 57, 57);
     text-align: left; 
     font-size: 16px;;
+    color: rgb(251, 249, 249);
+    padding: 8px 1.6em;
+    border-radius: 7px;
+    
   }
 
 
