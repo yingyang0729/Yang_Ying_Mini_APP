@@ -672,8 +672,10 @@ button {
     margin-top: 50px;
     color: #fcfefc;
     align-items: center;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;;
+    font-style: italic;
 }
 
 
